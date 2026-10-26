@@ -1,2 +1,2 @@
 # Restaurant-cafe
-Professional Web Designer, Developer &amp; WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.
+A community-focused restaurant and cafe platform designed with care. Built to share the love for good food, comforting beverages, and warm hospitality with everyone. And first, we insure your safety.
